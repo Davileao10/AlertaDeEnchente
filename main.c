@@ -1,13 +1,3 @@
-/*
- *  Por: Wilton Lacerda Silva (adaptado)
- *  Data: 15/05/2025
- *
- *  Estação de Alerta de Enchente com FreeRTOS
- *
- *  Descrição: Lê o joystick (nível da água e chuva) via ADC, exibe no OLED,
- *  controla LEDs RGB com GPIO digital, matriz WS2812 5x5 e emite alertas sonoros com buzzer via PWM.
- */
-
 #include <stdio.h>
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
