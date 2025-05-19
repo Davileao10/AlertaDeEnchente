@@ -105,17 +105,7 @@ Comunicação via filas:
 - **Comunicação:** I2C (display), PWM (buzzer), PIO (WS2812)
 - **IDE recomendada:** VS Code + CMake + arm-none-eabi-gcc
 
----
 
-## 📝 Autor
-
-**Davi Nascimento Leão**  
-📍 Polo: Feira de Santana  
-📅 Data: 02/05/2025
-
----
-
-## 📜 Licença
 
 Este projeto é acadêmico e livre para fins educacionais. Para usos comerciais, entre em contato com o autor.
 
