@@ -106,8 +106,3 @@ Comunicação via filas:
 - **IDE recomendada:** VS Code + CMake + arm-none-eabi-gcc
 
 
-
-Este projeto é acadêmico e livre para fins educacionais. Para usos comerciais, entre em contato com o autor.
-
----
-
